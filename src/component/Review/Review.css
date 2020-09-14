@@ -1,0 +1,10 @@
+.review-section{
+    display: flex;
+}
+.order-summary{
+    margin-left: 20px;
+    margin-left: 250px;
+}
+.order-items{
+    width: 700px;
+}

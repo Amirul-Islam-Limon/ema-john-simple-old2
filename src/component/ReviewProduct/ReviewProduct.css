@@ -1,0 +1,13 @@
+.reviewProduct{
+    width: 700px;
+    margin-left: 200px;
+    border-bottom: 1px solid gray;
+    background-color: rgb(241, 236, 236);
+    padding-left: 10px;
+    border-radius: 7px;
+}
+.reviewProduct h3{
+    color:blue;
+    font-weight: 400;
+    
+}
